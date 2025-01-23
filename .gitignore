@@ -1,0 +1,13 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore dataset files if not to be uploaded
+data/
+
+# Ignore VS Code workspace settings
+.vscode/
